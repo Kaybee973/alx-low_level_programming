@@ -1,10 +1,9 @@
-/* Writing program on printf */
 #include <stdio.h>
 
 /**
- * main - Starting and ending point
+ * main - Entry point
  *
- * Returm: (0) = SUCCESS
+ * Return: Always 0 (Success)
 */
 int main(void)
 {
