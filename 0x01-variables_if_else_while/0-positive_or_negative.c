@@ -1,24 +1,28 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
 
-/* betty style doc for function main goes there */
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
+
 	n = 5;
-	if (n > 0) {
+
+	if (n > 0)
+	{
 		printf("is positive\n");
 	}
-
-	n = 0;
-	if (n == 0) {
+	else if (n == 0)
+	{
 	       printf("is zero\n");
 	}
-
-	n = -3;
-	if (n < 0) {
+	else
+	{
 		printf("is negative\n");
 	}
 
