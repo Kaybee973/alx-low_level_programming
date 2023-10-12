@@ -3,13 +3,13 @@
 /**
  * _abs - Check main
  * @r: As an input character
- * Description: function that computes the absolute 
+ * Description: function that computes the absolute
  * value of an integer
  * Return: Always 0.
  */
 int _abs(int r)
 {
-	
+
 	if (r > 0)
 	{
 		return (r);
