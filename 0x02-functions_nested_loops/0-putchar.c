@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+int x;
+#iclude "main.h"
 /**
  * main - Entry point
  *
