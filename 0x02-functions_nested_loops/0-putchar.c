@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int x;
-#iclude "main.h"
+#include "main.h"
 /**
  * main - Entry point
  *
