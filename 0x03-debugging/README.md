@@ -1,0 +1,1 @@
+Debugging is the process of identifying and fixing errors or issues in software code. Manual debugging involves finding and addressing these issues by inspecting and manipulating the code without relying on automated tools.
