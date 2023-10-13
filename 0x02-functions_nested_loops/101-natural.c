@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - check main 
+ * main - check main
  *
  * Return: Always 0 (Success)
  */
