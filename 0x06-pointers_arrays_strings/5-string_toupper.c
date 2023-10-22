@@ -2,7 +2,8 @@
 
 /**
  * string_toupper - check main
- * Description: function that changes all lowercase letters of a string to uppercase.
+ * Description: function that changes all lowercase
+ * letters of a string to uppercase.
  * Return: lwr
  */
 
@@ -20,6 +21,6 @@ char *string_toupper(char *lwr)
 			lwr[i] = ascii;
 		}
 	}
-	
+
 	return (lwr);
 }
