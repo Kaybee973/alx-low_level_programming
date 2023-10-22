@@ -2,6 +2,7 @@
 
 /**
  * string_toupper - check main
+ * @lwr: Is a pointer pointing to the array
  * Description: function that changes all lowercase
  * letters of a string to uppercase.
  * Return: lwr
