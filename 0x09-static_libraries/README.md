@@ -8,4 +8,4 @@ Static libraries
 
 Static libraries (archived files) are collections of object files that are linked into the program during the linking phase of compilation, and are not relevant during runtime. Only the executable file is needed in order to run the program.
 
-The tool used to create a static library is a program called 'ar', for 'archiver'. This program can be used to create static libraries, modify object files in the static library, list the names of object files in the library, and so on
+The tool used to create a static library is a program called 'ar', for 'archiver'. This program can be used to create static libraries, modify object files in the static library, list the names of object files in the library, and so on.
