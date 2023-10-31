@@ -2,6 +2,8 @@
 
 /**
  * main - Entry point
+ * @argc: counts the number of arguments
+ * @argv: an array of pointer to the string
  * Description: Program that prints its name, with new line
  * Return: Always 0 (Success)
  */
