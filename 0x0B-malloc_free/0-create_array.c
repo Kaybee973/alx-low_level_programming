@@ -3,7 +3,8 @@
 #include "main.h"
 
 /**
- * create_array - function that creates an array of chars, and initializes it with a specific char
+ * create_array - creates an array of chars,
+ * and initializes it with a specific char
  * @size: the length of the array
  * @c: input character
  * Return: void pointer
@@ -17,7 +18,7 @@ char *create_array(unsigned int size, char c)
 	if (size == 0)
 		return (NULL);
 
-	void_pointer = (char *) malloc(sizeof(char) *size);
+	void_pointer = (char *) malloc(sizeof(char) * size);
 	if (void_pointer == NULL)
 		return (NULL);
 
