@@ -1,8 +1,13 @@
 #include "main.h"
 
-void print_all(void)
+/**
+ * print_school
+ *
+ * Return: Nothing
+ */
+void print_school(void)
 {
-   printf("j#0000000000000000000000000000000000000\n");
+	printf("j#0000000000000000000000000000000000000\n");
 	printf("j#000000000000000000@Q**g00000000000000\n");
 	printf("j#0000000000000000*]++]4000000000000000\n");
 	printf("j#000000000000000k]++]++*N#000000000000\n");

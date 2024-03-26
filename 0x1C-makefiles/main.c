@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-    print_all();
-    return (0);
+	print_school();
+	return (EXIT_SUCCESS);
 }

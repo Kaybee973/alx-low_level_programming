@@ -1,8 +1,9 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-#include <stdio.h>
 #include <stdlib.h>
-void print_all(void);
+#include <stdio.h>
+
+void print_school(void);
 
 #endif
