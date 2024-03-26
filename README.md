@@ -1,2 +1,2 @@
 # Learning C
-Preprocessor
+Low level language
